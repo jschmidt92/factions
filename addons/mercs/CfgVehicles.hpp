@@ -7,6 +7,7 @@ class CfgVehicles {
         side = 2;
         genericNames = "NATOMen";
         faction = QCLASS(I_Mercs);
+        displayName = "Team Leader";
         identityTypes[] = {"LanguageENGB_F", "Head_NATO", "CUP_G_ARMY"};
         weapons[] = {"CUP_arifle_G36C", "CUP_17Rnd_9x19_glock17", "Throw", "Put"};
         respawnWeapons[] = {"CUP_arifle_G36C", "CUP_17Rnd_9x19_glock17", "Throw", "Put"};
