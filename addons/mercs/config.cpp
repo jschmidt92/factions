@@ -14,5 +14,7 @@ class CfgPatches {
     };
 };
 
+// Config go here
+#include "CfgEventHandlers.hpp"
 #include "CfgVehicles.hpp"
 #include "CfgWeapons.hpp"
